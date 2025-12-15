@@ -1,3 +1,5 @@
 tesseract-ocr
+tesseract-ocr-slk
+tesseract-ocr-ces
 poppler-utils
 
